@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://img.shields.io/badge/MacOS-999999.svg?logo=apple&style=flat-square"> <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&style=flat-square"> <img src="https://img.shields.io/badge/Django-092E20.svg?logo=django&style=flat-square"> <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&style=flat-square"> <img src="https://img.shields.io/badge/VScode-007ACC.svg?logo=visualstudiocode&style=flat-square">
+  <img src="https://img.shields.io/badge/MacOS-999999.svg?logo=apple&style=flat-square"> <img src="https://img.shields.io/badge/Python-ffff00.svg?logo=python&style=flat-square"> <img src="https://img.shields.io/badge/Django-092E20.svg?logo=django&style=flat-square"> <img src="https://img.shields.io/badge/Ubuntu-4b0082.svg?logo=ubuntu&style=flat-square"> <img src="https://img.shields.io/badge/VScode-007ACC.svg?logo=visualstudiocode&style=flat-square">
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
